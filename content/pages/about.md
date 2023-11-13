@@ -11,6 +11,6 @@ The club also has several Special Interest Groups to help students learn and pra
 
 Want to join Cyberwildcats?  Just fill out the [Cyberwildcats Application Form](http://www.cyberwildcats.net/apply)!
 
-Find out when Cyberwildcats events are happening with the [Cyberwildcats Event Calendar](http://www.cyberwildcats.net/calendar)
+Find out when Cyberwildcats events are happening with the [Cyberwildcats Event Calendar](https://calendar.google.com/calendar/embed?src=cyberwildcats%40gmail.com&ctz=America%2FNew_York)
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/LkLQHBhSUqM" title="Cyber Wildcats Info Session" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -17,7 +17,8 @@ AUTHOR_FEED_RSS = None
 THEME = "/Users/earnoth/src/cyberwildcats/pelican-themes/bootstrap2-dark"
 
 # Links
-LINKS = (('Proxmox (needs VPN)', 'https://10.1.11.33:8006'),
+LINKS = (('Cyberwildcats Calendar', 'https://calendar.google.com/calendar/embed?src=cyberwildcats%40gmail.com&ctz=America%2FNew_York'),
+         ('Proxmox (needs VPN)', 'https://10.1.11.33:8006'),
          ('Cyberwildcats Github', 'https://github.com/Cyberwildcats'),
          ('Google Drive', 'https://drive.google.com/drive/folders/1bBJfnMvM-af_80J7JxpGMyXZ602dkWER'))
 
