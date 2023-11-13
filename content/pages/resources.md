@@ -1,7 +1,7 @@
 Title: Resources
 Date: 2023-11-11 10:20
 Authors: The Coach
-Category: Announcements
+Category: Instructions
 
 The Cyberwildcats have been around for almost 14 years now and in all that time we’ve built up a considerable amount of resources for members to take advantage of in their journey to learn more about cybersecurity, hacking, and personal development. This is an overview of those resources to help club members find their way around.
 
@@ -10,23 +10,6 @@ The Cyberwildcats have been around for almost 14 years now and in all that time 
 Want to join Cyberwildcats?  Just fill out the [Cyberwildcats Application Form](http://www.cyberwildcats.net/apply)!
 
 Find out when Cyberwildcats events are happening with the [Cyberwildcats Event Calendar](http://www.cyberwildcats.net/calendar)
-
-## Proxmox
-
-The Cyberwildcats has several dedicated Proxmox clusters that club members can use for experimentation and learning.  This is also the environment where we run offensive-defensive exercises for students to benefit from hands-on cyber security experiences and tutelage from faculty and friends of Cyberwildcats, such as [Pros V Joes](http://www.prosversusjoes.net).
-
-<div align="center";><img src="/images/cyberwildcats_proxmox.png" alt="Cyberwildcats Proxmox webUI" width="70%"/></div>
-
-
-## VPN
-
-Many of the Cyberwildcats activities require access to our private network using our VPN.  Club member will be given an OVPN file with password by The Coach and will need to install the proper client.
-
-### Client installation
-
-* Windows: [OpenVPN version 2.4.12](https://swupdate.openvpn.org/community/releases/openvpn-install-2.4.12-I601-Win10.exe)
-* Linux: [the latest OpenVPN](http://openvpn.net/community-downloads/)
-* Mac: [Tunnelblick](https://tunnelblick.net/).
 
 ## Cyberwildcats Slack
 
@@ -42,7 +25,7 @@ While most Cyberwildcats communication happens via Slack (see above) sometimes a
 
 ## Development
 
-An increasing amount of Cyberwildcats development and learning is being done on Github. All Cyberwildcats club members are entitled to join the Cyberwildcats Github organization. If you are a club member and are not yet a member, please contact the coach.
+An increasing amount of Cyberwildcats development and learning is being done on Github. All Cyberwildcats club members are entitled to join the Cyberwildcats Github organization. If you are a club member and are not yet a member, please contact the coach via Slack.
 
 [The Cyberwildcats Github Organization](https://github.com/Cyberwildcats)
 
@@ -52,3 +35,21 @@ To access the Google Drive resources, you must be a member of the Cyberwildcats 
 
 [Cyberwildcats Google Drive](http://www.cyberwildcats.net/drive)
 
+## Proxmox
+
+The Cyberwildcats has several dedicated Proxmox clusters that club members can use for experimentation and learning.  This is also the environment where we run offensive-defensive exercises for students to benefit from hands-on cyber security experiences and tutelage from faculty and friends of Cyberwildcats, such as [Pros V Joes](http://www.prosversusjoes.net).  To request access, please post in the [Proxmox Support Channel on Cyberwildcats Slack](https://app.slack.com/client/T09RD0WQM/C04HGQ5Q98F) to ask for access.  Make sure to include `@myssfit` and `@t3hc0ach` in your message.
+
+[Cyberwildcats Proxmox (VPN required)](https://10.1.11.33:8006)
+
+<div align="center";><img src="/images/cyberwildcats_proxmox.png" alt="Cyberwildcats Proxmox webUI" width="70%"/></div>
+
+
+## VPN
+
+Many of the Cyberwildcats activities require access to our private network using our VPN.  Club member will be given an OVPN file with password will need to install the proper client.  To request access, please post in the [VPN Support Channel on Cyberwildcats Slack](https://app.slack.com/client/T09RD0WQM/C04HGPSP3HD) to ask for access.  Make sure to include `@myssfit` and `@t3hc0ach` in your message.
+
+### Client installation
+
+* Windows: [OpenVPN version 2.4.12](https://swupdate.openvpn.org/community/releases/openvpn-install-2.4.12-I601-Win10.exe)
+* Linux: [the latest OpenVPN](http://openvpn.net/community-downloads/)
+* Mac: [Tunnelblick](https://tunnelblick.net/).
