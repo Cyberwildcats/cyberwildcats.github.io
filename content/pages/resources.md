@@ -7,7 +7,7 @@ The Cyberwildcats have been around for almost 14 years now and in all that time 
 
 ## General Club Information
 
-Want to join Cyberwildcats?  Just fill out the [Cyberwildcats Application Form](http://www.cyberwildcats.net/apply)!
+Want to join Cyberwildcats?  Just fill out the [Cyberwildcats Application Form](https://forms.gle/hofZwm2RWP63BhcVA)!
 
 Find out when Cyberwildcats events are happening with the [Cyberwildcats Event Calendar](https://calendar.google.com/calendar/embed?src=cyberwildcats%40gmail.com&ctz=America%2FNew_York)
 
