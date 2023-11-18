@@ -12,21 +12,25 @@ The club also has several Special Interest Groups to help students learn and pra
 
 Help to build and configure the CTF environment. Learn to install the systems and software used in the Cyberwildcats Capture the Flag events, from servers to firewalls, from desktops to intrusion detection systems.
 
+[Cyberwildcats Github Team for CTF Builders](https://github.com/orgs/Cyberwildcats/teams/builders)
+
+### Threat Hunting
+
+A cornerstone of security modern computer networks is threat hunting, the act of searching through logs and other instrumentation for evidence of adversary activity.  Participate in activities to gain the hands-on knowledge needed to find malicious actors who have penetrated and are operating within secured systems for unsavory purposes.
+
+[Cyberwildcats Github Team for Threat Hunting](https://github.com/orgs/Cyberwildcats/teams/threat-hunting)
+
 ### RedCell Fu 
 
 Learn the tools and techniques used to compromise systems in Capture the Flag. Learn how to break in, escalate, backdoor, pivot, and ultimately win via exfiltration. 
 
-### Honeypots 
-
-The Internet today is full of malware, and it’s only getting worse. Build and operate both client and server side honeypots on the Cyberwildcats Internet link, collecting the nasty bits and bytes that are propagating out in the wild. Study collected malware in a forensics environment, performing both static and dynamic analysis.
-
-### Security, Live! 
-
-Being on the Internet, the Cyberwildcats network is exposed to attack. Monitoring and analyze the logs from the club’s Firewall, IDS, and webserver. Identify attacks, study their activity and behaviors, and learn to distinguish between noise and The Real Thing.
+[Cyberwildcats Github Team for Red Cell Fu](https://github.com/orgs/Cyberwildcats/teams/red-cell-fu)
 
 ### The Forge
 
 Learn by building tools for use by others in the club, be it the other Specials programs or Capture The Flag. Write scripts, compile code, and solve problems with the help and guidance of the WilmU coaching staff. 
+
+[Cyberwildcats Github Team for The Forge](https://github.com/orgs/Cyberwildcats/teams/the-forge)
 
 # How do I get started?
 

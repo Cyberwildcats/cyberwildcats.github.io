@@ -42,6 +42,8 @@ The Cyberwildcats has several dedicated Proxmox clusters that club members can u
 
 [Cyberwildcats Proxmox (VPN required)](https://10.1.11.33:8006)
 
+[Cyberwildcats Proxmox Usage Manual](https://docs.google.com/document/d/10za4H5M7x0PT7BJGLX9eKB7RoPmtZBwR/edit?usp=sharing&ouid=116857645506738452141&rtpof=true&sd=true)
+
 <div align="center";><img src="/images/cyberwildcats_proxmox.png" alt="Cyberwildcats Proxmox webUI" width="70%"/></div>
 
 
