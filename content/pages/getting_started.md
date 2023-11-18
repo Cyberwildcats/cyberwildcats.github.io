@@ -5,10 +5,15 @@ Category: Instructions
 
 The Cyberwildcats is a University Club that provides students with hands-on Information Security experience in a live network through realistic combat situations. The core activity of the club is Capture the Flag, where students actively practice offensive and defensive skills in a live-fire environment. Exercises are conducted around twice a month.
 
+<a name="SpecialInterestGroups">
 ## Special Interest Groups
+</a>
+
 The club also has several Special Interest Groups to help students learn and practice InfoSec skills between CTFs. Each activity is primarily self-driven, with a mailing list dedicated to it for students to collaborate and coaches to assist with direction and problems. 
 
+<a name="CTFBuilders">
 ### CTF Builders 
+</a>
 
 Help to build and configure the CTF environment. Learn to install the systems and software used in the Cyberwildcats Capture the Flag events, from servers to firewalls, from desktops to intrusion detection systems.
 
@@ -16,7 +21,9 @@ Help to build and configure the CTF environment. Learn to install the systems an
 
 [Cyberwildcats Slack channel for CTF Builders](https://cyberwildcats.slack.com/archives/C0AGW7FDL)
 
+<a name="ThreatHunting">
 ### Threat Hunting
+</a>
 
 A cornerstone of security modern computer networks is threat hunting, the act of searching through logs and other instrumentation for evidence of adversary activity.  Participate in activities to gain the hands-on knowledge needed to find malicious actors who have penetrated and are operating within secured systems for unsavory purposes.
 
@@ -24,7 +31,9 @@ A cornerstone of security modern computer networks is threat hunting, the act of
 
 [Cyberwildcats Slack channel for Threat Hunting](https://cyberwildcats.slack.com/archives/C0AGWGUMV)
 
+<a name="RedCellFu">
 ### RedCell Fu 
+</a>
 
 Learn the tools and techniques used to compromise systems in Capture the Flag. Learn how to break in, escalate, backdoor, pivot, and ultimately win via exfiltration. 
 
@@ -32,7 +41,9 @@ Learn the tools and techniques used to compromise systems in Capture the Flag. L
 
 [Cyberwildcats Slack channel for Redcell Fu](https://cyberwildcats.slack.com/archives/C0AGTT0LC)
 
+<a name="TheForge">
 ### The Forge
+</a>
 
 Learn by building tools for use by others in the club, be it the other Specials programs or Capture The Flag. Write scripts, compile code, and solve problems with the help and guidance of the WilmU coaching staff. 
 
@@ -40,11 +51,15 @@ Learn by building tools for use by others in the club, be it the other Specials 
 
 [Cyberwildcats Slack channel for The Forge](https://cyberwildcats.slack.com/archives/C0AGWGQLF)
 
+<a name="GettingStarted">
 # How do I get started?
+</a>
 
 The Cyberwildcats has a vast amount of resources available for students to learn, practice, and build their skills to make them more able to find good work in the Cyber Security field.  To start with, you will need to get accounts on the following sites:
 
+<a name="Apply">
 ## Apply for Cyberwildcats
+</a>
 
 Just fill out the [Cyberwildcats Application Form](http://www.cyberwildcats.net/apply)!
 
