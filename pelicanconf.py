@@ -24,7 +24,7 @@ LINKS = (('Cyberwildcats Calendar', 'https://calendar.google.com/calendar/embed?
 
 # Social widget
 SOCIAL = (('Cyberwildcats Slack', 'https://cyberwildcats.slack.com'),
-          ('Cyberwildcats Google Group', 'http://www.cyberwildcats.net/group'))
+          ('Cyberwildcats Google Group', 'https://groups.google.com/g/cyberwildcats'))
 
 DEFAULT_PAGINATION = 10
 
