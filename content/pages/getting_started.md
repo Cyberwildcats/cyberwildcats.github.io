@@ -14,11 +14,15 @@ Help to build and configure the CTF environment. Learn to install the systems an
 
 [Cyberwildcats Github Team for CTF Builders](https://github.com/orgs/Cyberwildcats/teams/builders)
 
+[Cyberwildcats Slack channel for CTF Builders](https://cyberwildcats.slack.com/archives/C0AGW7FDL)
+
 ### Threat Hunting
 
 A cornerstone of security modern computer networks is threat hunting, the act of searching through logs and other instrumentation for evidence of adversary activity.  Participate in activities to gain the hands-on knowledge needed to find malicious actors who have penetrated and are operating within secured systems for unsavory purposes.
 
 [Cyberwildcats Github Team for Threat Hunting](https://github.com/orgs/Cyberwildcats/teams/threat-hunting)
+
+[Cyberwildcats Slack channel for Threat Hunting](https://cyberwildcats.slack.com/archives/C0AGWGUMV)
 
 ### RedCell Fu 
 
@@ -26,11 +30,15 @@ Learn the tools and techniques used to compromise systems in Capture the Flag. L
 
 [Cyberwildcats Github Team for Red Cell Fu](https://github.com/orgs/Cyberwildcats/teams/red-cell-fu)
 
+[Cyberwildcats Slack channel for Redcell Fu](https://cyberwildcats.slack.com/archives/C0AGTT0LC)
+
 ### The Forge
 
 Learn by building tools for use by others in the club, be it the other Specials programs or Capture The Flag. Write scripts, compile code, and solve problems with the help and guidance of the WilmU coaching staff. 
 
 [Cyberwildcats Github Team for The Forge](https://github.com/orgs/Cyberwildcats/teams/the-forge)
+
+[Cyberwildcats Slack channel for The Forge](https://cyberwildcats.slack.com/archives/C0AGWGQLF)
 
 # How do I get started?
 
