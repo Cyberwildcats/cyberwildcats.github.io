@@ -25,7 +25,7 @@ While most Cyberwildcats communication happens via Slack (see above) sometimes a
 
 ## Development
 
-An increasing amount of Cyberwildcats development and learning is being done on Github. All Cyberwildcats club members are entitled to join the Cyberwildcats Github organization. If you are a club member and are not yet a member, please contact the coach via Slack.
+An increasing amount of Cyberwildcats development and learning is being done on Github. All Cyberwildcats club members are entitled to join the Cyberwildcats Github organization.  To get added to the Cyberwildcats Github Organization, club members should post their request with the link to their Github profile in the [#github channel on the Cyberwildcats Slack](https://cyberwildcats.slack.com/archives/C04T3ET310Q) and @myssfit , @t3hc0ach , and @Smiley
 
 [The Cyberwildcats Github Organization](https://github.com/Cyberwildcats)
 
