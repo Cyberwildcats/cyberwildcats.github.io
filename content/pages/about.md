@@ -3,7 +3,7 @@ Date: 2023-11-11 10:20
 Authors: The Coach
 Category: Announcements
 
-This presentation from August 2022 by The Coach  explains what Cyberwildcats is.  All Wilmington University students are welcome to join the club.  All Wilmington University alumni are equally invited to apply.  Those who aren't students or alumni are welcome to apply if they have a sponsor from Wilmington University, either student or faculty.  WilmU students and alumni are not required to provide a sponsor.
+This presentation from August 2022 by The Coach explains what Cyberwildcats is.  All Wilmington University students are welcome to join the club.  All Wilmington University alumni are equally invited to apply.  Those who aren't students or alumni are welcome to apply if they have a sponsor from Wilmington University, either student or faculty.  WilmU students and alumni are not required to provide a sponsor.
 
 The Cyberwildcats is a University Club that provides students with hands-on Information Security experience in a live network through realistic combat situations. The core activity of the club is Capture the Flag, where students actively practice offensive and defensive skills in a live-fire environment. Exercises are conducted around twice a month.
 
