@@ -42,7 +42,7 @@ An increasing amount of Cyberwildcats development and learning is being done on 
 
 To access the Google Drive resources, you must be a member of the Cyberwildcats Google Group. All Cyberwildcats club members should have membership into the Google Group. If you do not, please contact the coach via Slack.
 
-[Cyberwildcats Google Drive](http://www.cyberwildcats.net/drive)
+[Cyberwildcats Google Drive](https://drive.google.com/drive/folders/1bBJfnMvM-af_80J7JxpGMyXZ602dkWER)
 
 <a name="Proxmox">
 ## Proxmox
