@@ -9,7 +9,7 @@ The Cyberwildcats is a University Club that provides students with hands-on Info
 
 The club also has several Special Interest Groups to help students learn and practice InfoSec skills between CTFs. Each activity is primarily self-driven, with a mailing list dedicated to it for students to collaborate and coaches to assist with direction and problems. 
 
-Want to join Cyberwildcats?  Just fill out the [Cyberwildcats Application Form](http://www.cyberwildcats.net/apply)!
+Want to join Cyberwildcats?  Just fill out the [Cyberwildcats Application Form](https://forms.gle/VjS31Jsx1BZXkCAcA)!
 
 Find out when Cyberwildcats events are happening with the [Cyberwildcats Event Calendar](https://calendar.google.com/calendar/embed?src=cyberwildcats%40gmail.com&ctz=America%2FNew_York)
 
