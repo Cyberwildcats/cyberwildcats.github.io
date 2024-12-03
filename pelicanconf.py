@@ -9,11 +9,17 @@ TIMEZONE = 'US/Eastern'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = "atom.xml"
-AUTHOR_FEED_RSS = None
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+FEED_MAX_ITEMS = 10
+# Enable RSS feed generation
+FEED_ALL_RSS = 'feeds/all.rss.xml'  # Generates a site-wide RSS feed
+CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'  # Generates category-specific RSS feeds
+# Optional: Limit the number of items in the RSS feed
+FEED_MAX_ITEMS = 10
+#TRANSLATION_FEED_ATOM = None
+#AUTHOR_FEED_ATOM = "atom.xml"
+#AUTHOR_FEED_RSS = None
 THEME = "/Users/earnoth/src/cyberwildcats/pelican-themes/bootstrap2-dark"
 
 # Links
