@@ -9,7 +9,7 @@ We will be fielding at least one team in this year's competition. To that end, w
 
 Requirements to play:
 
-- none
+- have not played in NCAE before
 
 What do you need to do:
 
