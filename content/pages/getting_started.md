@@ -5,6 +5,12 @@ Category: Instructions
 
 The Cyberwildcats is a University Club that provides students with hands-on Information Security experience in a live network through realistic combat situations. The core activity of the club is Capture the Flag, where students actively practice offensive and defensive skills in a live-fire environment. Exercises are conducted around twice a month.
 
+<a name="Apply">
+## Apply for Cyberwildcats
+</a>
+
+Just fill out the [Cyberwildcats Application Form](https://forms.gle/Urba9tkCoTuJpPacA)!
+
 <a name="SpecialInterestGroups">
 ## Special Interest Groups
 </a>
@@ -56,12 +62,6 @@ Learn by building tools for use by others in the club, be it the other Specials 
 </a>
 
 The Cyberwildcats has a vast amount of resources available for students to learn, practice, and build their skills to make them more able to find good work in the Cyber Security field.  To start with, you will need to get accounts on the following sites:
-
-<a name="Apply">
-## Apply for Cyberwildcats
-</a>
-
-Just fill out the [Cyberwildcats Application Form](http://www.cyberwildcats.net/apply)!
 
 ## Start using Slack
 
