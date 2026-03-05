@@ -11,12 +11,17 @@ Want to join Cyberwildcats?  Just fill out the [Cyberwildcats Application Form](
 
 Find out when Cyberwildcats events are happening with the [Cyberwildcats Event Calendar](https://calendar.google.com/calendar/embed?src=cyberwildcats%40gmail.com&ctz=America%2FNew_York)
 
+<a name="Discord">
+## Cyberwildcats Discord Server
+</a>
+
+The Cyberwildcats Discord server is now the primary hub for all club activities.  To join our server, please complete the application form listed above and follow the instructions there. 
+
 <a name="Slack">
 ## Cyberwildcats Slack
 </a>
 
-Even before its recent transition to an online only organization, the primary means of communication between Cyberwildcats club members has been via our Slack. All Cyberwildcats club members are invited to our workspace after acceptance into the organization.
-
+The Cyberwildcats Slack is now retired and defunct.  All club communications happen over Discord.
 [Cyberwildcats Slack](http://cyberwildcats.slack.com/)
 
 <a name="GoogleGroup">
