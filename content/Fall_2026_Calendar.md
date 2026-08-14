@@ -13,6 +13,6 @@ We're sticking with our usual biweekly rhythm, alternating between Saturday morn
 
 A couple other dates worth marking now: **BSides DE is November 13-14**, and it's always a great time to see what our Pros V Joes friends are up to and get some real-world range experience. We'll have more details as it gets closer.
 
-Grab the [iCal link](https://calendar.google.com/calendar/ical/cyberwildcats%40gmail.com/public/basic.ics) to add everything straight to your own calendar, or check the [Calendar page](/pages/calendar/) any time for the latest.
+Grab the [iCal link](https://calendar.google.com/calendar/ical/cyberwildcats%40gmail.com/public/basic.ics) to add everything straight to your own calendar, or check the [Calendar page](/pages/calendar.html) any time for the latest.
 
 See you at the next meeting!
